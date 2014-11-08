@@ -1,0 +1,7 @@
+Parse error:
+  [a] - -
+       ^
+(line 1, column 6):
+unexpected " "
+expecting letter
+Bad symbol
