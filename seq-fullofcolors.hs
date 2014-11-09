@@ -9,4 +9,5 @@ inverse 'B' = 'Y'
 
 
 folder :: (String, Bool) -> Char -> (String, Bool)
-folder ([], _) c = ([c], False) 
+folder ([], _) c = ([c], False)
+folder (a:[], _) =  
